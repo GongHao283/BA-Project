@@ -1,2 +1,3 @@
 # BA-Project
-For business Analytics Project
+For Business Analytics Project
+Project Proposal
